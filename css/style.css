@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  padding-left: 3rem;
+}
+
+input[type="range"] {
+  margin-left: 3rem;
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
+
+body {
+  padding-bottom: 5rem;
+}
